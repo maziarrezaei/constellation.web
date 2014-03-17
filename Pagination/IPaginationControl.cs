@@ -1,4 +1,4 @@
-﻿namespace Spark.Web.Pagination
+﻿namespace Constellation.Web.Pagination
 {
 	/// <summary>
 	/// Contract for use with Pagination Controls.

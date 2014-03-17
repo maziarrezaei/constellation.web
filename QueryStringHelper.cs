@@ -1,4 +1,4 @@
-﻿namespace Spark.Web
+﻿namespace Constellation.Web
 {
 	using System;
 	using System.Collections.Generic;

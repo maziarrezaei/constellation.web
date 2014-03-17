@@ -7,8 +7,8 @@
     <ProjectGuid>{DFFBD8BC-3F2E-487B-80A1-18553BEE4E08}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Spark.Web</RootNamespace>
-    <AssemblyName>Spark.Web</AssemblyName>
+    <RootNamespace>Constellation.Web</RootNamespace>
+    <AssemblyName>Constellation.Web</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -48,10 +48,10 @@
     <Compile Include="UrlHelper.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Spark.Web.License.txt" />
+    <Content Include="Constellation.Web.License.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Spark.Web.nuspec" />
+    <None Include="Constellation.Web.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

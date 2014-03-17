@@ -8,7 +8,7 @@
 	<owners>Richard J. Cabral</owners>
 	<projectUrl>https://github.com/sitecorerick/spark-web</projectUrl>
 	<requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<summary>Some basic ASP.NET utilities. This is a core library for other Spark namespaces.</summary>
+	<summary>Some basic ASP.NET utilities. This is a core library for other Constellation namespaces.</summary>
 	<description>
 		This library contains the following useful classes:
 		
@@ -19,7 +19,7 @@
 		Pagination: Headless logic for producing web pages that support paginated result sets.
 	</description>
 	<releaseNotes>Initial NuGet release.</releaseNotes>
-	<copyright>Copyright 2013</copyright>
+	<copyright>Copyright 2014</copyright>
 	<tags>Spark</tags>
   </metadata>
 </package>

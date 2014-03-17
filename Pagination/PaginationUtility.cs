@@ -1,4 +1,4 @@
-﻿namespace Spark.Web.Pagination
+﻿namespace Constellation.Web.Pagination
 {
 	using System;
 	using System.Collections.Generic;
