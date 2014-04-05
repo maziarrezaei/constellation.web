@@ -33,11 +33,6 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Pagination\IPaginationControl.cs" />
@@ -48,7 +43,8 @@
     <Compile Include="UrlHelper.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Constellation.Web.License.txt" />
+    <Content Include="Instructions\Constellation.Web.Instructions.txt" />
+    <Content Include="License\Constellation.Web.License.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Constellation.Web.nuspec" />
