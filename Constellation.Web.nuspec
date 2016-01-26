@@ -18,7 +18,7 @@
 		
 		Pagination: Headless logic for producing web pages that support paginated result sets.
 	</description>
-	<releaseNotes>Ensured the NuGet package matched the deployment footprint of all other Constellation packages.</releaseNotes>
+	<releaseNotes>Moved development to VS2013.</releaseNotes>
 	<copyright>Copyright 2014</copyright>
 	<tags>Spark</tags>
   </metadata>
