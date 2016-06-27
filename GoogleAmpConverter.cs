@@ -25,6 +25,12 @@
 		{
 			var result = ReplaceIframeWithLink(source);
 
+			// TODO: Strip inline styles
+
+			// TODO: Strip embed tags replace with inline link like iFrame
+
+			// TODO: remove other incompatible elements.
+
 			result = UpdateAmpImages(result);
 
 			return result;
